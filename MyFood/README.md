@@ -16,7 +16,7 @@ Bootstrap: A front-end framework for responsive and mobile-first design.
 Groq AI: An AI service that helps generate personalized suggestions based on mood and location.
 
 ### How to Use ###
-Clone the repository:https://github.com/Rishi-2205/my-food/tree/main/MyFood.git
+Clone the repository:https://github.com/Rishi-2205/my-food.git
 
 Install Dependencies: In the project directory, run:npm install
 
