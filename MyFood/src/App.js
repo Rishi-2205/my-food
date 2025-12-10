@@ -6,6 +6,8 @@ import searchIcon from './assets/icons/search.svg';
 import backgroundImage from './assets/Background/background.png';
 
 function App() {
+  console.log("Env key loaded?", process.env.REACT_APP_GROQ_API_KEY);
+
   const [location, setLocation] = useState('');
   const [mood, setMood] = useState('');
   const [suggestedFood, setSuggestedFood] = useState('');
